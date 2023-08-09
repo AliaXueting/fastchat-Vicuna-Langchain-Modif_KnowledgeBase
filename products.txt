@@ -1,0 +1,4 @@
+Product Name: iphone
+English Description: this is a tele-phone
+Foreign Description: 这是一个手机
+Stock Price: 9000
