@@ -16,7 +16,7 @@ Set OpenAI base url: export OPENAI_API_BASE=http://localhost:8000/v1
 
 Set OpenAI API key: export OPENAI_API_KEY=EMPTY
 
-LangChain part:
+LangChain/modify knowledge base part:
 ![71483767729b9a1f45e9659988b231b](https://github.com/AliaXueting/fastchat/assets/96671351/e4781242-cd3a-41a8-8e60-00f69e202c21)
 
 
