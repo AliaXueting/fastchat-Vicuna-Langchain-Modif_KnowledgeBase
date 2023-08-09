@@ -11,7 +11,9 @@ step2: python3 -m fastchat.serve.model_worker --model-names "gpt-3.5-turbo,text-
 ![a857bc770a1bd9d6f09fcea006dc544](https://github.com/AliaXueting/fastchat/assets/96671351/b15ab77a-655b-4b0f-a004-53273e7f416c)
 
 step3 launch the RESTful API server: 
+
 Set OpenAI base url: export OPENAI_API_BASE=http://localhost:8000/v1
+
 Set OpenAI API key: export OPENAI_API_KEY=EMPTY
 
 LangChain part:
