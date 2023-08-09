@@ -1,5 +1,5 @@
 # fastchat
-在AI studio云服务器上进行了部署了测试。 main.ipynb是LangChain部分的代码  products.txt是data
+在AI studio云服务器上进行了部署了测试。 main.ipynb是LangChain部分的代码  products.txt文件是data
 
 step1  launch the controller: python3 -m fastchat.serve.controller
 
