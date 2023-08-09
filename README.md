@@ -1,8 +1,10 @@
 # fastchat
 fastchat
 
+在AI studio云服务器上进行了部署了测试。
 
 step1  launch the controller: python3 -m fastchat.serve.controller
+
 step2: python3 -m fastchat.serve.model_worker --model-names "gpt-3.5-turbo,text-davinci-003,text-embedding-ada-002" --model-path lmsys/vicuna-7b-v1.3 
 
 
