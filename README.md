@@ -20,9 +20,11 @@ Set OpenAI base url: export OPENAI_API_BASE=http://localhost:8000/v1
 Set OpenAI API key: export OPENAI_API_KEY=EMPTY
 
 Exampel of modified data:
-
+![image](https://github.com/AliaXueting/fastchat-Vicuna-Langchain-Modif_KnowledgeBase/assets/96671351/cc1b8659-a8f1-4ea0-934d-3f99a0e5b525)
 
 LangChain/modify knowledge base part:
 ![71483767729b9a1f45e9659988b231b](https://github.com/AliaXueting/fastchat/assets/96671351/e4781242-cd3a-41a8-8e60-00f69e202c21)
+
+Testing on the Gradio UI:
 
 
