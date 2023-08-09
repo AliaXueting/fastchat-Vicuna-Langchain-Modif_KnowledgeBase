@@ -28,3 +28,9 @@ LangChain/modify knowledge base part:
 Testing on the Gradio UI:
 
 
+## Reference
+fastchat:
+https://github.com/lm-sys/FastChat
+
+Langchain:
+https://python.langchain.com/docs/use_cases/question_answering/ 
