@@ -26,7 +26,8 @@ LangChain/modify knowledge base part:
 ![71483767729b9a1f45e9659988b231b](https://github.com/AliaXueting/fastchat/assets/96671351/e4781242-cd3a-41a8-8e60-00f69e202c21)
 
 Testing on the Gradio UI:
-![e626536d8ac8114c172c6a49294dd4d](https://github.com/AliaXueting/fastchat-Vicuna-Langchain-Modif_KnowledgeBase/assets/96671351/53fb612d-685d-41e4-8c64-37d97f53f095)
+![3f48b3a3c77815013b46a6050af9bee](https://github.com/AliaXueting/fastchat-Vicuna-Langchain-Modif_KnowledgeBase/assets/96671351/e74fbbb1-bcab-48f0-9bfa-0a1d7cf683cf)
+
 
 
 ## Reference
