@@ -25,6 +25,10 @@ Exampel of modified data:
 LangChain/modify knowledge base part:
 ![71483767729b9a1f45e9659988b231b](https://github.com/AliaXueting/fastchat/assets/96671351/e4781242-cd3a-41a8-8e60-00f69e202c21)
 
+step4 launch the Gradio web server: python3 -m fastchat.serve.gradio_web_server
+
+
+
 ## Reference
 fastchat:
 https://github.com/lm-sys/FastChat
