@@ -27,7 +27,18 @@ LangChain/modify knowledge base part:
 
 step4 launch the Gradio web server: python3 -m fastchat.serve.gradio_web_server
 
+or create your own UI page, Reference https://www.bilibili.com/video/BV1rk4y137Ty?p=2&vd_source=2efcd8c571daa7543cf07149b1c07305
 
+origin UI page 
+![180b98b7e2d69193a29d539a58dd45a](https://github.com/AliaXueting/fastchat-Vicuna-Langchain-Modif_KnowledgeBase/assets/96671351/46f6fe8f-c86d-4640-8c1d-432c48d32a09)
+
+## Custom Prompts
+Language Detection and Switching: Develop a language detection mechanism to identify whether the user input is in Mandarin or English. 
+use pre-trained language detection libraries or models to accomplish this. Based on the detected language, switch the chatbot's responses accordingly.
+
+Custom Response Templates: Design custom response templates that can be filled with language-specific content. For instance, create templates for greetings, acknowledgments, and common queries in both languages. The model can then use these templates to generate coherent responses.
+
+Language-Specific Variations: Develop variations of your responses to account for cultural differences and language preferences. Certain phrases or concepts might not directly translate between Mandarin and English, so having language-specific variations can ensure more accurate and culturally sensitive interactions. such as Uesr "You got an apple", This sentence may refer to you having an iPhone in Chinese, not that you have an Apple
 
 ## Reference
 fastchat:
