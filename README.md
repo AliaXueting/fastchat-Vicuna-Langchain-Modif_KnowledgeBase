@@ -30,6 +30,8 @@ step4 launch the Gradio web server: python3 -m fastchat.serve.gradio_web_server
 
 or create your own UI page, Reference https://www.bilibili.com/video/BV1rk4y137Ty?p=2&vd_source=2efcd8c571daa7543cf07149b1c07305
 
+![image](https://github.com/AliaXueting/fastchat-Vicuna-Langchain-Modif_KnowledgeBase/assets/96671351/6964ae76-2c81-47d5-8f62-5622e3d769ba)
+
 UI page 
 ![image](https://github.com/AliaXueting/fastchat-Vicuna-Langchain-Modif_KnowledgeBase/assets/96671351/6cb34dae-83ce-44f1-b9dc-ec322a7cdda8)
 
