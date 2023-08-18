@@ -23,14 +23,16 @@ Exampel of modified data:
 ![image](https://github.com/AliaXueting/fastchat-Vicuna-Langchain-Modif_KnowledgeBase/assets/96671351/cc1b8659-a8f1-4ea0-934d-3f99a0e5b525)
 
 LangChain/modify knowledge base part:
-![71483767729b9a1f45e9659988b231b](https://github.com/AliaXueting/fastchat/assets/96671351/e4781242-cd3a-41a8-8e60-00f69e202c21)
+![image](https://github.com/AliaXueting/fastchat-Vicuna-Langchain-Modif_KnowledgeBase/assets/96671351/69a27c71-7d5f-4705-bc91-1183a516bb88)
+
 
 step4 launch the Gradio web server: python3 -m fastchat.serve.gradio_web_server
 
 or create your own UI page, Reference https://www.bilibili.com/video/BV1rk4y137Ty?p=2&vd_source=2efcd8c571daa7543cf07149b1c07305
 
-origin UI page 
-![180b98b7e2d69193a29d539a58dd45a](https://github.com/AliaXueting/fastchat-Vicuna-Langchain-Modif_KnowledgeBase/assets/96671351/46f6fe8f-c86d-4640-8c1d-432c48d32a09)
+UI page 
+![image](https://github.com/AliaXueting/fastchat-Vicuna-Langchain-Modif_KnowledgeBase/assets/96671351/6cb34dae-83ce-44f1-b9dc-ec322a7cdda8)
+
 
 ## Custom Prompts
 Language Detection and Switching: Develop a language detection mechanism to identify whether the user input is in Mandarin or English. 
